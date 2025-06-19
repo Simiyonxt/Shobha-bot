@@ -1,0 +1,3 @@
+#!/bin/bash
+# Starting Shobana Filter Bot...
+python3 -u bot.py
